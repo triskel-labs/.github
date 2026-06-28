@@ -13,4 +13,4 @@ What we do
 - Product experiments that can become real companies
 
 
-Founded by Dave Molina and Mao Lee.
+Founded by David Molina and Mao Lee.
